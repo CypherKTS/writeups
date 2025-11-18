@@ -1,2 +1,2 @@
 # Project Writeups
-Written summaries of my competition, CTF, homelab, and projects.
+Briefs on competitions, CTFs, and projects using HackTheBox, TryHackMe, Schoolwork, and Homelabs.
