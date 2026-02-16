@@ -1,4 +1,4 @@
-# Atlantic Council Cybercraft State Initiative Cyber 9/12 Strategy Challenge Austin, TX
+# Atlantic Council Cybercraft State Initiative Cyber 9/12 Strategy Challenge Austin, Texas
 
 **Info: 25 Teams across the United States and internationally.**
 
