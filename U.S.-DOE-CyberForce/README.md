@@ -2,7 +2,7 @@
 
 **Info: 92 University teams across the United States competing in Illinois hosted by Argonne National Laboratory.**
 
-**Result: Placed in top 15 of nearly 100 teams nationwide, 14/92.**
+**Result: Placed in top 15 of nearly 100 teams nationwide, 14th of 92 teams.**
 
 **Team: Lewis University, Order of the Purple Flamingo.**
 
