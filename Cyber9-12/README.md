@@ -5,3 +5,5 @@
 **Result: 1st place position in Presentation Skills and Policy Proposals, 13th place overall.**
 
 **Team: Lewis University, Order of the Purple Flamingo.**
+
+**Role: Policy creation, intellignece reports analysis, 2 page situation briefs, 2 page written briefs, 1 page decision documents, oral presentations, and questioning to and from judges from the White House, Department of Defense, Department of Justice, security architects at Google, Microsoft, and CISO's from Austin, TX in a 16 hour turnaround.**
