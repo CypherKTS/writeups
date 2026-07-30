@@ -1,25 +1,23 @@
-# United States Department of Energy CyberForce Competition
+# U.S. Department of Energy CyberForce Competition
 
-**92 University teams across the United States competing against real-world penetration testers in Illinois hosted by Argonne National Laboratory and the U.S. Department of Energy.**
+## Overview
+* **Event:** National collegiate cybersecurity competition hosted by Argonne National Laboratory (Illinois).
+* **Result:** **Placed 14th out of 92 teams** (Top 15 nationwide).
+* **Team:** Lewis University – *Order of the Purple Flamingo* (Premier Lewis team)
+* **Program:** [U.S. Department of Energy CyberForce® Program](https://cyberforce.energy.gov)
 
-**Result:**
+---
 
-Placed in top 15 of nearly 100 teams nationwide, 14th of 92 teams.
+## Operational Responsibilities & Contributions
+* **System Hardening & Defense:** Programmable Logic Controllers (PLCs) and OpenSUSE Linux web servers were secured using `auditd` against active U.S. government Red Team operators.
+* **Incident Response & Troubleshooting:** Live-fire challenges were managed, including rapid incident recovery of the scoring system following an unexpected disruption while securing NFS.
+* **CTF & Crypto:** Cryptographic and networking challenges were solved to maximize team scoring within an in-person AWS infrastructure CTF environment.
+* **Executive Communication:** C-Suite documentation and briefings regarding an Industrial Control System (ICS) compromise were presented, translating technical findings into business risk insights.
+* **Security Documentation:** Comprehensive documentation was authored covering incident response, threat mitigation, security tool overviews, and post-incident recommendations.
 
-**Team:** 
+---
 
-Lewis University, Order of the Purple Flamingo.
-
-**Role:** 
-
-Hardening PLC controller using Auditd in SUSE Linux against active U.S. government red team and solving cryptographic & networking challenges to boost team score.
-
-**Overview:**
-
-•  Represented Lewis University in the U.S. Department of Energy CyberForce competition placing top 15 of 92 teams nationwide. 
-
-•  Presented C-Suite documentation and briefing on an Industrial Control System compromise, translating technical findings into business risk insights for executives.
-
-•  Authored security documentation on incident response, mitigation, security tool overview, and post-incident recommendations.
-
-•  Competed in an in-person AWS infrastructure CTF as Blue Team, conducting IR, system hardening, and threat detection against U.S. DOE offensive  professionals while green teams validated CIA compliance.
+## Technical Stack & Environment
+* **Cloud & Infrastructure:** AWS, Industrial Control Systems (ICS / PLC), OpenSUSE Linux
+* **Security Tools:** SIEM platforms, Nessus, Kali Linux, `auditd`, `Sysmon`
+* **Core Disciplines:** Critical infrastructure defense, Blue Team operations, CIA triad compliance validation, threat detection, and incident response
