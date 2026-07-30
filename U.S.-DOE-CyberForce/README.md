@@ -8,6 +8,12 @@
 
 ---
 
+## Deliverables & Documentation
+* [Security Documentation](https://github.com/CypherKTS/writeups/blob/main/U.S.-DOE-CyberForce/U.S.%20DOE%20CyberForce%20Security%20Documentation.pdf)
+* [Blue vs. Red Hierarchy Chart](https://github.com/CypherKTS/writeups/blob/main/U.S.-DOE-CyberForce/BlueTeamRedTeamHierarchy.jpg)
+
+---
+
 ## Operational Responsibilities & Contributions
 * **System Hardening & Defense:** Programmable Logic Controllers (PLCs) and OpenSUSE Linux web servers were secured using `auditd` against active U.S. government Red Team operators.
 * **Incident Response & Troubleshooting:** Live-fire challenges were managed, including rapid incident recovery of the scoring system following an unexpected disruption while securing NFS.
